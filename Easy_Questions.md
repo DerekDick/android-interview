@@ -9,7 +9,7 @@
 **3. In the Java programming language, every application must contain a main method whose signature is \_\_\_\_.**
   `public static void main(String[] args)`
 
-**4. **The string returned by the expression `"Was it a car or a cat I saw?".substring(9, 12)` is \_\_\_\_, and its length is \_\_\_\_.
+**4. The string returned by the expression `"Was it a car or a cat I saw?".substring(9, 12)` is \_\_\_\_, and its length is \_\_\_\_.**
 
 **5. All the Android application components are \_\_\_\_.**
 - Activity
