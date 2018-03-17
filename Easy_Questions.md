@@ -4,7 +4,7 @@
 
   2
 
-**2. In the Java programming language, the size of `char` is \_\_\_\_ bytes.**
+**2. In the Java programming language, the size of `boolean` is \_\_\_\_ bytes.**
 
   Not defined. See Oracle [documentation](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html).
 
